@@ -1,0 +1,72 @@
+{
+    "version": 2.1,
+    
+    /* General Colors */
+    "kFieryColorsAccentColor" : "4F709D",
+    "kFieryColorsBackgroundColor" : "1C1D25",
+    "kFieryColorsBackgroundAccentColor" : "15161C",
+    "kFieryColorsForegroundColor" : "FFFFFF",
+    "kFieryColorsForegroundAccentColor" : "47658E",
+    "kFieryColorsWindowBackgroundColor": "09090C",
+    "kFieryColorsBlurColor": "FFFFFF33",
+    
+    /* Navigation Bar */
+    "kFieryColorsNavbarForegroundColor" : "4F709D",
+    "kFieryColorsNavbarGradientTopColor" : "1C1D25AA",
+    "kFieryColorsNavbarGradientBottomColor" : "1C1D25AA",
+    "kFieryColorsNavbarAccentColor" : "",
+    "kFieryColorsNavbarTitleColor" : "4F709D",
+    "kFieryColorsNavbarShadowOpacity" : 0.05,
+    
+    /* Notification View */
+    "kFieryColorsNotificationBackgroundColor" : "4F709D66",
+    "kFieryColorsNotificationForegroundColor" : "FFFFFF",
+    
+    /* Toolbar */
+    "kFieryColorsToolbarBackgroundColor" : "2A354866",
+    "kFieryColorsToolbarForegroundColor" : "4F709D",
+    "kFieryColorsToolbarShadowOpacity" : 0.25,
+    
+    /* Table View Cell */
+    "kFieryColorsCellHighlightBackgroundColor" : "202530",
+    "kFieryColorsCellHighlightForegroundColor" : "FFFFFF",
+    "kFieryColorsCellSeparatorColor" : "09090C",
+    
+    /* Article Cell Buttons */
+    "kFieryColorsCellButtonsBackgroundColor" : "202530",
+    "kFieryColorsCellButtonsForegroundColor": "4F709D",
+    "kFieryColorsCellButtonsHighlightBackgroundColor": "2A3548",
+    "kFieryColorsCellButtonsHighlightForegroundColor": "4F709D",
+
+    /* Article Cell Preview Text */
+    "kFieryColorsCellPreviewTextColor" : "AFBED2",
+    "kFieryColorsCellHighlightPreviewTextColor" : "AFBED2",
+     
+    /* Image View */
+    "kFieryColorsImageViewBackground" : "1C1D2566",
+
+    /* Alert View */
+    "kFieryColorsAlertViewBackground" : "4F709D66",
+    "kFieryColorsAlertViewForeground" : "FFFFFF",
+    "kFieryColorsAlertViewButtonColor" : "FFFFFFCC",
+    
+    /* Article View */
+    "kFieryColorsArticleBackgroundColor" : "15161C",
+    "kFieryColorsArticleBackgroundAccentColor" : "1C1D25",
+    "kFieryColorsArticleTitleColor" : "FFFFFF",
+    "kFieryColorsArticleTextColor" : "DEDEDE",
+    "kFieryColorsArticleTextAccentColor" : "DEDEDE",
+    
+    /* Mac Sidebar */
+    "kColorSidebarBackgroundColor" : "#15161C",
+    "kFieryColorsHideSidebarToolbarColor" : "#4F709D",
+    "kFieryColorsHideSidebarNavigationbarColor" : "#4F709D",
+    "kFieryColorsHideSidebarHideBars" : true,
+    
+    /* App Settings */
+    "kFieryColorsLightStatusbar" : true,
+    "kFieryColorsDarkScrollbars" : true,
+    "kFieryColorsReadArticleAlpha" : 0.3,
+    "kFieryColorsBackgroundBlurStyle" : "UIBlurEffectStyleDark"
+}
+
